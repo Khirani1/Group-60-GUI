@@ -1,8 +1,8 @@
 # Group-60-GUI
 
-Weather App -  Group 60
+##Weather App -  Group 60
 
-<h1>Roles:</h1>
+##Roles:
 
 Front End: Sharusan and Ibrahim
 
